@@ -1,0 +1,8 @@
+{
+  "name": "tabs_ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "bb98429f"
+}
